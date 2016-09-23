@@ -10,6 +10,7 @@ namespace Education
     {
         static void Main(string[] args)
         {
+            //
         }
     }
 }
