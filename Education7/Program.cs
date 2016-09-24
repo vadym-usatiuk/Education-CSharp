@@ -14,25 +14,24 @@ namespace Education7
             {
                 int reminder3 = counter % 3;
                 int reminder5 = counter % 5;
+                string result = "";
 
-                if (reminder3 == 0 && reminder5 == 0)
+                if (reminder3 == 0)
                 {
-                    System.Console.WriteLine("FizzBuzz");
+                    result += "Fizz";
                 }
-                else if (reminder3 == 0)
+                if (reminder5 == 0)
                 {
-                    System.Console.WriteLine("Fizz");
+                    result += "Buzz";
                 }
-                else if (reminder5 == 0)
+                if (reminder3 != 0 && reminder5 != 0)
                 {
-                    System.Console.WriteLine("Buzz");
+                    result = counter.ToString();
                 }
-                else
-                {
-                    System.Console.WriteLine(counter);
-                }
+                System.Console.WriteLine(result);
             }
             System.Console.ReadLine();
+
         }
     }
 }
