@@ -18,7 +18,7 @@ namespace Education2
             int age = 24;
             double weight = 92.2;
 
-            stringToShowFirst = surName + " " + firstName + " " + secondName + ", year old " + age + ", weight " + weight;
+            stringToShowFirst = surName + " " + firstName + " " + secondName + "," + age + " years old " + ", weight " + weight;
 
             surName = "Voronsov";
             firstName = "Arthur";
@@ -27,7 +27,7 @@ namespace Education2
             age = 24;
             weight = 70;
 
-            stringToShowSecond = surName + " " + firstName + " " + secondName + ", year old " + age + ", weight " + weight;
+            stringToShowSecond = surName + " " + firstName + " " + secondName + "," + age + " years old " + ", weight " + weight;
 
             System.Console.WriteLine(stringToShowFirst);
             System.Console.WriteLine(stringToShowSecond);

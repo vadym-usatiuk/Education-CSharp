@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Education", "Education\Educ
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Education2", "Education2\Education2.csproj", "{C9417D12-B0FB-4ED9-958C-249120A0C393}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Education3", "Education3\Education3.csproj", "{42F25B04-1709-426F-89E9-C63D7DDC09EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Education4", "Education4\Education4.csproj", "{B6B18D9C-0212-4865-BAA0-695BC068F291}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{C9417D12-B0FB-4ED9-958C-249120A0C393}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C9417D12-B0FB-4ED9-958C-249120A0C393}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C9417D12-B0FB-4ED9-958C-249120A0C393}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42F25B04-1709-426F-89E9-C63D7DDC09EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42F25B04-1709-426F-89E9-C63D7DDC09EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42F25B04-1709-426F-89E9-C63D7DDC09EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42F25B04-1709-426F-89E9-C63D7DDC09EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6B18D9C-0212-4865-BAA0-695BC068F291}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6B18D9C-0212-4865-BAA0-695BC068F291}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6B18D9C-0212-4865-BAA0-695BC068F291}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6B18D9C-0212-4865-BAA0-695BC068F291}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
