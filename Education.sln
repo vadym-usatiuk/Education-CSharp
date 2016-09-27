@@ -3,23 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Education", "Education\Education.csproj", "{FB0844BB-F657-4F42-B040-695AFDAFDDDD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Education01", "Education\Education01.csproj", "{FB0844BB-F657-4F42-B040-695AFDAFDDDD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Education2", "Education2\Education2.csproj", "{C9417D12-B0FB-4ED9-958C-249120A0C393}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Education02", "Education2\Education02.csproj", "{C9417D12-B0FB-4ED9-958C-249120A0C393}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Education3", "Education3\Education3.csproj", "{42F25B04-1709-426F-89E9-C63D7DDC09EC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Education03", "Education3\Education03.csproj", "{42F25B04-1709-426F-89E9-C63D7DDC09EC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Education4", "Education4\Education4.csproj", "{B6B18D9C-0212-4865-BAA0-695BC068F291}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Education04", "Education4\Education04.csproj", "{B6B18D9C-0212-4865-BAA0-695BC068F291}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Education5", "Education5\Education5.csproj", "{E0DE20C1-FF0E-4767-8C4B-6475192D8207}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Education05", "Education5\Education05.csproj", "{E0DE20C1-FF0E-4767-8C4B-6475192D8207}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Education6", "Education6\Education6.csproj", "{9D3CFAEA-F66E-4D77-9122-02BE8B1800E8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Education06", "Education6\Education06.csproj", "{9D3CFAEA-F66E-4D77-9122-02BE8B1800E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Education7", "Education7\Education7.csproj", "{56235A22-D325-4642-BD41-BAF6BE551572}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Education07", "Education7\Education07.csproj", "{56235A22-D325-4642-BD41-BAF6BE551572}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Education8", "Education8\Education8.csproj", "{B864D1F7-9A6C-4DC6-8B11-7030F37B6DED}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Education08", "Education8\Education08.csproj", "{B864D1F7-9A6C-4DC6-8B11-7030F37B6DED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Education9", "Education9\Education9.csproj", "{33465615-8534-4D69-9F9E-F913697982DD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Education09", "Education9\Education09.csproj", "{33465615-8534-4D69-9F9E-F913697982DD}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Education10", "Education10\Education10.csproj", "{F595329F-7BBB-43E3-B866-6789DA98233F}"
 EndProject
